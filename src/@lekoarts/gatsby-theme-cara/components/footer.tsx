@@ -30,11 +30,6 @@ const Footer = () => {
           a: { color: `text` },
         }}
       >
-        
-        {` `}
-        
-          Theme
-        </Link>
         <div sx={{ mx: 1 }}>by</div>
         {` `}
         <Link aria-label="Link to the author's website" href="https://www.benhadman.me/">
